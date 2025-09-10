@@ -75,15 +75,6 @@ I enjoy transforming business needs into **clear technical solutions**, designin
 
 
 ---
-## 📫 Connect with Me  
-
-<p align="center">
-  <a href="https://prashailedge.my.canva.site/"><img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/geetanjali-dhoke-51a9711a1/"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://github.com/GeetanjaliDhoke"><img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub"/></a>
-  <a href="mailto:gorgeousgeetanjali15@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png" alt="Email"/></a>
-</p>
-
 
 ## 📫 Connect with Me  
 
@@ -92,12 +83,6 @@ I enjoy transforming business needs into **clear technical solutions**, designin
 - 🖥️ [GitHub – GeetanjaliDhoke](https://github.com/GeetanjaliDhoke)  
 - 📧 [Email – gorgeousgeetanjali15@gmail.com](mailto:gorgeousgeetanjali15@gmail.com)  
 
-## 📫 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Geetanjali%20Dhoke-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/geetanjali-dhoke-51a9711a1/)  
-[![GitHub](https://img.shields.io/badge/GitHub-GeetanjaliDhoke-black?style=for-the-badge&logo=github)](https://github.com/GeetanjaliDhoke)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Prashail%20Edge-blue?style=for-the-badge)](https://prashailedge.my.canva.site/)  
-[![Gmail](https://img.shields.io/badge/Email-gorgeousgeetanjali15%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gorgeousgeetanjali15@gmail.com)  
 
 ---
 
