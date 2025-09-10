@@ -11,8 +11,8 @@ I enjoy transforming business needs into **clear technical solutions**, designin
 
 ### 📝 Business Requirements Documents  
 - [Amazon RDS to Snowflake Data Migration with DBT](https://github.com/GeetanjaliDhoke/Business-Requirements-Documents/blob/main/BRD-%20Amazon%20RDS%20to%20Snowflake%20Data%20Migration%20with%20DBT.pdf)  
-- [Customer Support Ticketing Dashboard]([./Business-Requirements-Documents/Customer%20Support%20Ticketing%20Dashboard.pdf](https://github.com/GeetanjaliDhoke/Business-Requirements-Documents/blob/main/BRD-%20Customer%20Support%20Ticketing%20Dashboard.pdf))  
-- [User Mail List Sign-Up Form]([./Business-Requirements-Documents/User%20Mail%20list%20sign%20up%20form.pdf](https://github.com/GeetanjaliDhoke/Business-Requirements-Documents/blob/main/BRD-User%20Mail%20list%20sign%20up%20form.pdf))  
+- [Customer Support Ticketing Dashboard]((https://github.com/GeetanjaliDhoke/Business-Requirements-Documents/blob/main/BRD-%20Customer%20Support%20Ticketing%20Dashboard.pdf))  
+- [User Mail List Sign-Up Form]((https://github.com/GeetanjaliDhoke/Business-Requirements-Documents/blob/main/BRD-User%20Mail%20list%20sign%20up%20form.pdf))  
 - [WordPress Website](https://github.com/GeetanjaliDhoke/Business-Requirements-Documents/blob/main/BRD-wordpress-website.pdf)  
 
 ### 🎨 Wireframes  
