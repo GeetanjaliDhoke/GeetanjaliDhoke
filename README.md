@@ -10,51 +10,45 @@ I enjoy transforming business needs into **clear technical solutions**, designin
 ## 📂 Featured Repositories  
 
 ### 📝 Business Requirements Documents  
-- [Amazon RDS to Snowflake Data Migration with DBT](./Business-Requirements-Documents/Amazon%20RDS%20to%20Snowflake%20Data%20Migration%20with%20DBT.pdf)  
-- [Customer Support Ticketing Dashboard](./Business-Requirements-Documents/Customer%20Support%20Ticketing%20Dashboard.pdf)  
-- [User Mail List Sign-Up Form](./Business-Requirements-Documents/User%20Mail%20list%20sign%20up%20form.pdf)  
-- [WordPress Website](./Business-Requirements-Documents/wordpress-website.pdf)  
-
-
-### 📝 Business Requirements Documents  
-- Amazon RDS to Snowflake Data Migration with DBT  
-- Customer Support Ticketing Dashboard  
-- User Mail List Sign-Up Form  
-- WordPress Website  
+- [Amazon RDS to Snowflake Data Migration with DBT](https://github.com/GeetanjaliDhoke/Business-Requirements-Documents/blob/main/BRD-%20Amazon%20RDS%20to%20Snowflake%20Data%20Migration%20with%20DBT.pdf)  
+- [Customer Support Ticketing Dashboard]([./Business-Requirements-Documents/Customer%20Support%20Ticketing%20Dashboard.pdf](https://github.com/GeetanjaliDhoke/Business-Requirements-Documents/blob/main/BRD-%20Customer%20Support%20Ticketing%20Dashboard.pdf))  
+- [User Mail List Sign-Up Form]([./Business-Requirements-Documents/User%20Mail%20list%20sign%20up%20form.pdf](https://github.com/GeetanjaliDhoke/Business-Requirements-Documents/blob/main/BRD-User%20Mail%20list%20sign%20up%20form.pdf))  
+- [WordPress Website](https://github.com/GeetanjaliDhoke/Business-Requirements-Documents/blob/main/BRD-wordpress-website.pdf)  
 
 ### 🎨 Wireframes  
-- Mobile Interface Wireframe  
-- Mobile App Wireframe  
-- Digital Prototype for User Interface  
-- User Sign-Up Email List Form  
-- Simple Mobile Interface Wireframe  
+- [Mobile Interface Wireframe](https://github.com/GeetanjaliDhoke/Wireframes/blob/main/Mobile%20Interface%20Wireframe.png)  
+- [Mobile App Wireframe](https://github.com/GeetanjaliDhoke/Wireframes/blob/main/Mobile%20App%20Wireframe.png)  
+- [Digital Prototype for User Interface](https://github.com/GeetanjaliDhoke/Wireframes/blob/main/Digital%20prototype%20for%20user%20interface%20wireframe.png)  
+- [User Sign-Up Email List Form](https://github.com/GeetanjaliDhoke/Wireframes/blob/main/User%20Sign-up%20email%20list%20form.png)  
+- [Simple Mobile Interface Wireframe](https://github.com/GeetanjaliDhoke/Wireframes/blob/main/Simple%20mobile%20interface%20wirreframe.png)  
 
-### 📌 User Stories  
-- Ticketing Website System User Story  
-- User Experience Userflow  
-- User Registration  
+### 📌 User Stories 
+- [Ticketing Website System User Story](https://github.com/GeetanjaliDhoke/User-Stories/blob/main/Ticketing%20Website%20System%20users%20userstory.png)  
+- [User Experience Userflow](https://github.com/GeetanjaliDhoke/User-Stories/blob/main/User%20experience%20userflow%20userstory.png)  
+- [User Registration](https://github.com/GeetanjaliDhoke/User-Stories/blob/main/User%20Registration.drawio.png)
 
 ### 📑 Functional Requirement Documents  
-- Automated Data Pipeline for Client Reporting  
-- Client-Facing Analytics Dashboard  
-- GIS Data Visualization & Analysis Tool  
-- MSME Loan Pre-Qualification App  
+- [Automated Data Pipeline for Client Reporting](https://github.com/GeetanjaliDhoke/Functional-Requirements-Documents/blob/main/FRD-Automated%20Data%20Pipeline%20for%20Client%20Reporting.pdf)  
+- [Client-Facing Analytics Dashboard](https://github.com/GeetanjaliDhoke/Functional-Requirements-Documents/blob/main/FRD-Client-Facing%20Analytics%20Dashboard.pdf)  
+- [GIS Data Visualization & Analysis Tool](https://github.com/GeetanjaliDhoke/Functional-Requirements-Documents/blob/main/FRD-GIS%20Data%20Visualization%20%26%20Analysis%20Tool.pdf)  
+- [MSME Loan Pre-Qualification App](https://github.com/GeetanjaliDhoke/Functional-Requirements-Documents/blob/main/FRD-MSME%20Loan%20Pre-Qualification%20App.pdf)
 
 ### 📊 Power BI Reports  
-- Attendance Type Data  
-- Compliance Status Distribution  
-- Employee Data Report  
-- Error Count Over Time  
-- GIS Location Data  
-- Sales Reports  
-- Student Data Report  
-- Pizza Sales Report  
+- [Attendance Type Data](https://github.com/GeetanjaliDhoke/Power-BI-reports/blob/main/power%20bi%20reports/Attendance%20Type%20Data.pdf)  
+- [Compliance Status Distribution Data](https://github.com/GeetanjaliDhoke/Power-BI-reports/blob/main/power%20bi%20reports/Compliance%20Status%20Distribution%20Data.pdf)  
+- [Employee Data Report](https://github.com/GeetanjaliDhoke/Power-BI-reports/blob/main/power%20bi%20reports/Employee%20Data%20Report.pdf)  
+- [Error Count Over Time Data](https://github.com/GeetanjaliDhoke/Power-BI-reports/blob/main/power%20bi%20reports/Error%20Count%20Over%20Time%20Data.pdf)  
+- [GIS Location Data](https://github.com/GeetanjaliDhoke/Power-BI-reports/blob/main/power%20bi%20reports/GIS%20Location%20Data.pdf)  
+- [Sales Reports](https://github.com/GeetanjaliDhoke/Power-BI-reports/blob/main/power%20bi%20reports/Sales%20reports.pdf)  
+- [Student Data Report](https://github.com/GeetanjaliDhoke/Power-BI-reports/blob/main/power%20bi%20reports/Students%20Data%20Report.pdf)  
+- [Pizza Sales Report](https://github.com/GeetanjaliDhoke/Power-BI-reports/blob/main/power%20bi%20reports/pizza%20sales%20report.pdf)
+ 
+### 📚 Portfolio Case Studies (Experience-Based)  
+- [Digital Dhukan – Business Intelligence Support](https://github.com/GeetanjaliDhoke/Portfolio-Case-Studies/blob/main/Digital%20Dhukan-Business%20Intelligence%20Support.pdf)  
+- [Mastek – Optimizing Data Insights for Global Retail Client](https://github.com/GeetanjaliDhoke/Portfolio-Case-Studies/blob/main/Mastek-Optimizing%20Data%20Insights%20for%20Global%20Retail%20Client.pdf)  
+- [Here Technologies – Enhancing Spatial Data Systems](https://github.com/GeetanjaliDhoke/Portfolio-Case-Studies/blob/main/Here%20Technologies-Enhancing%20Spatial%20Data%20Systems.pdf)
 
-### 📚 Case Studies (Experience-Based)  
-- **Digital Dhukan** – Business Intelligence Support  
-- **Mastek** – Optimizing Data Insights for Global Retail Client  
-- **Here Technologies** – Enhancing Spatial Data Systems  
-
+  
 ---
 ## 🛠️ Skills & Tools  
 
