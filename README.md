@@ -75,6 +75,12 @@ I enjoy transforming business needs into **clear technical solutions**, designin
 
 
 ---
+## 📫 Connect with Me  
+
+- 🌐 [Portfolio – Prashail Edge](https://prashailedge.my.canva.site/)  
+- 💼 [LinkedIn – Geetanjali Dhoke](https://www.linkedin.com/in/geetanjali-dhoke-51a9711a1/)  
+- 🖥️ [GitHub – GeetanjaliDhoke](https://github.com/GeetanjaliDhoke)  
+- 📧 [Email – gorgeousgeetanjali15@gmail.com](mailto:gorgeousgeetanjali15@gmail.com)  
 
 ## 📫 Connect with Me  
 
