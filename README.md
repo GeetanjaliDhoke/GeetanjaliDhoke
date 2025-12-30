@@ -42,6 +42,12 @@ I enjoy transforming business needs into **clear technical solutions**, designin
 - [Sales Reports](https://github.com/GeetanjaliDhoke/Power-BI-reports/blob/main/power%20bi%20reports/Sales%20reports.pdf)  
 - [Student Data Report](https://github.com/GeetanjaliDhoke/Power-BI-reports/blob/main/power%20bi%20reports/Students%20Data%20Report.pdf)  
 - [Pizza Sales Report](https://github.com/GeetanjaliDhoke/Power-BI-reports/blob/main/power%20bi%20reports/pizza%20sales%20report.pdf)
+
+### 📊 Experience Case Studies
+- [IBM](https://github.com/GeetanjaliDhoke/Portfolio-Case-Studies/blob/main/IBM%20-%20Geetanjali%20Dhoke.pdf)
+- [Digital Dhukan](https://github.com/GeetanjaliDhoke/Portfolio-Case-Studies/blob/main/Digital%20Dhukan%20-%20Geetanjali%20Dhoke.pdf)  
+- [Mastek](https://github.com/GeetanjaliDhoke/Portfolio-Case-Studies/blob/main/Mastek%20-%20Geetanjali%20Dhoke.pdf)
+- [Here Technologies](https://github.com/GeetanjaliDhoke/Portfolio-Case-Studies/blob/main/Here%20Technologies%20-%20Geetanjali%20Dhoke.pdf) 
  
 
 ---
@@ -73,7 +79,6 @@ I enjoy transforming business needs into **clear technical solutions**, designin
 
 ## 📫 Connect with Me  
 
-- 🌐 [Portfolio – Prashail Edge](https://prashailedge.my.canva.site/)  
 - 💼 [LinkedIn – Geetanjali Dhoke](https://www.linkedin.com/in/geetanjali-dhoke-51a9711a1/)  
 - 🖥️ [GitHub – GeetanjaliDhoke](https://github.com/GeetanjaliDhoke)  
 - 📧 [Email – gorgeousgeetanjali15@gmail.com](mailto:gorgeousgeetanjali15@gmail.com)  
