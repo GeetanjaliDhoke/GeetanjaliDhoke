@@ -43,12 +43,7 @@ I enjoy transforming business needs into **clear technical solutions**, designin
 - [Student Data Report](https://github.com/GeetanjaliDhoke/Power-BI-reports/blob/main/power%20bi%20reports/Students%20Data%20Report.pdf)  
 - [Pizza Sales Report](https://github.com/GeetanjaliDhoke/Power-BI-reports/blob/main/power%20bi%20reports/pizza%20sales%20report.pdf)
  
-### 📚 Portfolio Case Studies (Experience-Based)  
-- [Digital Dhukan – Business Intelligence Support](https://github.com/GeetanjaliDhoke/Portfolio-Case-Studies/blob/main/Digital%20Dhukan-Business%20Intelligence%20Support.pdf)  
-- [Mastek – Optimizing Data Insights for Global Retail Client](https://github.com/GeetanjaliDhoke/Portfolio-Case-Studies/blob/main/Mastek-Optimizing%20Data%20Insights%20for%20Global%20Retail%20Client.pdf)  
-- [Here Technologies – Enhancing Spatial Data Systems](https://github.com/GeetanjaliDhoke/Portfolio-Case-Studies/blob/main/Here%20Technologies-Enhancing%20Spatial%20Data%20Systems.pdf)
 
-  
 ---
 ## 🛠️ Skills & Tools  
 
