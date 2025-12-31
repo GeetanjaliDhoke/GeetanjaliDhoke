@@ -43,7 +43,7 @@ I enjoy transforming business needs into **clear technical solutions**, designin
 - [Student Data Report](https://github.com/GeetanjaliDhoke/Power-BI-reports/blob/main/power%20bi%20reports/Students%20Data%20Report.pdf)  
 - [Pizza Sales Report](https://github.com/GeetanjaliDhoke/Power-BI-reports/blob/main/power%20bi%20reports/pizza%20sales%20report.pdf)
 
-### 📊 Experience Case Studies
+### 📊 Work Experience Case Studies
 - [IBM](https://github.com/GeetanjaliDhoke/Portfolio-Case-Studies/blob/main/IBM%20-%20Geetanjali%20Dhoke.pdf)
 - [Digital Dhukan](https://github.com/GeetanjaliDhoke/Portfolio-Case-Studies/blob/main/Digital%20Dhukan%20-%20Geetanjali%20Dhoke.pdf)  
 - [Mastek](https://github.com/GeetanjaliDhoke/Portfolio-Case-Studies/blob/main/Mastek%20-%20Geetanjali%20Dhoke.pdf)
