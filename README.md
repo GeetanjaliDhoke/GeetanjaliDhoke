@@ -5,7 +5,6 @@ I am a **Business Analyst with 4+ years of experience** bridging the gap between
 
 I enjoy transforming business needs into **clear technical solutions**, designing **wireframes & user stories**, and creating **data-driven dashboards** that help stakeholders make informed decisions.  
 
----
 
 ## 📂 Featured Repositories  
 
