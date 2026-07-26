@@ -71,17 +71,32 @@ This repository is my contribution to the Business Analysis community, providing
 ---
 ## 🛠️ Skills & Tools  
 
-### 🔹 Business & Project Tools  
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  
+- Documentation & Requirement Management
+BRD, FRD, SRS, User Stories, Acceptance Criteria, Requirement Traceability Matrix (RTM), Change Request (CR) Documentation, Functional Specifications
 
-### 🔹 Data & Analytics  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+- Agile & Project Management
+Scrum, Agile, Jira, Confluence, Azure DevOps, Sprint Planning, Backlog Grooming, Sprint Review, Sprint Retrospective, Daily Standups, Kanban
 
-### 🔹 Cloud & DevOps  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white) ![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white) ![S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+- Process Design
+BPMN 2.0, Swimlane Diagrams, As-Is Process Mapping, To-Be Process Mapping, User Journey Mapping, Wireframes, Lucidchart, Miro, Draw.io, Microsoft Visio
 
-### 🔹 Web & UI  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+- Data Analysis
+SQL, PL/SQL, MySQL, Snowflake, Amazon Redshift, Amazon Athena, Excel, Power BI, Tableau, Data Mapping, ETL Validation
+
+- API & Integration
+REST APIs, JSON, XML, Postman, Swagger UI, API Validation, Request/Response Analysis
+
+- Testing
+UAT Planning, Test Case Writing, Defect Tracking, Regression Testing Support, Business Validation, User Acceptance Sign-off
+
+- Cloud & Enterprise Platforms
+AWS S3, AWS Lambda, AWS Glue, Amazon SNS, Amazon SQS, CloudWatch
+
+- AI & Automation
+LLM Evaluation, Prompt Evaluation, AI Workflow Analysis, Joget AI, Dataset Evaluation, Response Scoring Framework, AI Quality Metrics
+
+- Collaboration
+Microsoft Teams, Slack, Google Workspace, SharePoint, Loom, Notion
 
 ---
 
