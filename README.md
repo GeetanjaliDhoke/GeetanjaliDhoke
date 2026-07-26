@@ -1,9 +1,14 @@
-# Hi, I’m Geetanjali Dhoke 👋  
-**Techno-Functional Business Analyst | Data Analyst | UI/UX Collaborator**
+# Hi, I'm Geetanjali Dhoke 👋
 
-I am a **Business Analyst with 4+ years of experience** bridging the gap between business requirements and technical delivery. My expertise lies in **requirement gathering, functional documentation, UAT, SQL, APIs, AWS tools, and Agile project execution** across analytics, financial, and data-driven platforms.  
+**Business Analyst | Agile Practitioner | AI & Data Analytics Enthusiast | Scrum master**
 
-I enjoy transforming business needs into **clear technical solutions**, designing **wireframes & user stories**, and creating **data-driven dashboards** that help stakeholders make informed decisions.  
+I'm a Business Analyst with **5 years of experience** across IT, SaaS, AI, and data-driven projects. I specialize in translating business needs into actionable solutions by bridging the gap between stakeholders and technical teams.
+
+My experience spans the complete software delivery lifecycle, including **requirements gathering, stakeholder workshops, BRD, FRD, SRS, user stories, BPMN process modeling, sprint planning, UAT, API validation, and requirement traceability**. I've collaborated with cross-functional teams and international stakeholders across the **USA, UK, and France**, delivering enterprise solutions using Agile and Scrum methodologies.
+
+Beyond traditional business analysis, I have worked on **LLM evaluation frameworks, AI workflow analysis, SQL-based data analysis, Power BI dashboards, REST APIs, AWS services, and Snowflake**, helping organizations make informed, data-driven decisions.
+
+This repository is my contribution to the Business Analysis community, providing practical, reusable templates that can be adapted for real-world software projects.
 
 
 ## 📂 Featured Repositories  
@@ -47,7 +52,21 @@ I enjoy transforming business needs into **clear technical solutions**, designin
 - [Digital Dhukan](https://github.com/GeetanjaliDhoke/Portfolio-Case-Studies/blob/main/Digital%20Dhukan%20-%20Geetanjali%20Dhoke.pdf)  
 - [Mastek](https://github.com/GeetanjaliDhoke/Portfolio-Case-Studies/blob/main/Mastek%20-%20Geetanjali%20Dhoke.pdf)
 - [Here Technologies](https://github.com/GeetanjaliDhoke/Portfolio-Case-Studies/blob/main/Here%20Technologies%20-%20Geetanjali%20Dhoke.pdf) 
- 
+
+ ### 📊 Document Templates
+- [BRD Template](https://github.com/GeetanjaliDhoke/Document-Templates/blob/main/BRD%20Template.pdf)
+- [FRD Template](https://github.com/GeetanjaliDhoke/Document-Templates/blob/main/FRD%20Template.pdf)
+- [FSD Template](https://github.com/GeetanjaliDhoke/Document-Templates/blob/main/FSD%20Template.pdf)
+- [PRD Template](https://github.com/GeetanjaliDhoke/Document-Templates/blob/main/PRD%20Template.pdf)
+- [Requirements Document Template](https://github.com/GeetanjaliDhoke/Document-Templates/blob/main/Requirements%20Document%20Template.pdf)
+- [Requirements Traceability Matrix (RTM) Template](https://github.com/GeetanjaliDhoke/Document-Templates/blob/main/Requirements%20Traceability%20Matrix%20(RTM)%20Template.pdf)
+- [SRS Template](https://github.com/GeetanjaliDhoke/Document-Templates/blob/main/SRS%20Template.pdf)
+- [Stakeholder Register Template](https://github.com/GeetanjaliDhoke/Document-Templates/blob/main/Stakeholder%20Register%20Template.pdf)
+- [TRD Template](https://github.com/GeetanjaliDhoke/Document-Templates/blob/main/TRD%20Template.pdf)
+- [Use Case Document (UCD) Template](https://github.com/GeetanjaliDhoke/Document-Templates/blob/main/Use%20Case%20Document%20(UCD)%20Template.pdf)
+- [Product Requirements Document (PRD) Template](https://github.com/GeetanjaliDhoke/Document-Templates/blob/main/Product%20Requirements%20Document%20(PRD)%20Template.pdf)
+- [User Acceptance Testing (UAT) Template](https://github.com/GeetanjaliDhoke/Document-Templates/blob/main/User%20Acceptance%20Testing%20(UAT)%20Template.pdf)
+- [API Documentation Template](https://github.com/GeetanjaliDhoke/Document-Templates/blob/main/API%20Documentation%20Template.pdf)
 
 ---
 ## 🛠️ Skills & Tools  
