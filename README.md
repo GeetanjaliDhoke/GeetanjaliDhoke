@@ -71,32 +71,32 @@ This repository is my contribution to the Business Analysis community, providing
 ---
 ## 🛠️ Skills & Tools  
 
-- Documentation & Requirement Management
-BRD, FRD, SRS, User Stories, Acceptance Criteria, Requirement Traceability Matrix (RTM), Change Request (CR) Documentation, Functional Specifications
+Documentation & Requirement Management : 
+- BRD, FRD, SRS, User Stories, Acceptance Criteria, Requirement Traceability Matrix (RTM), Change Request (CR) Documentation, Functional Specifications
 
-- Agile & Project Management
-Scrum, Agile, Jira, Confluence, Azure DevOps, Sprint Planning, Backlog Grooming, Sprint Review, Sprint Retrospective, Daily Standups, Kanban
+Agile & Project Management : 
+- Scrum, Agile, Jira, Confluence, Azure DevOps, Sprint Planning, Backlog Grooming, Sprint Review, Sprint Retrospective, Daily Standups, Kanban
 
-- Process Design
-BPMN 2.0, Swimlane Diagrams, As-Is Process Mapping, To-Be Process Mapping, User Journey Mapping, Wireframes, Lucidchart, Miro, Draw.io, Microsoft Visio
+Process Design : 
+- BPMN 2.0, Swimlane Diagrams, As-Is Process Mapping, To-Be Process Mapping, User Journey Mapping, Wireframes, Lucidchart, Miro, Draw.io, Microsoft Visio
 
-- Data Analysis
-SQL, PL/SQL, MySQL, Snowflake, Amazon Redshift, Amazon Athena, Excel, Power BI, Tableau, Data Mapping, ETL Validation
+Data Analysis : 
+- SQL, PL/SQL, MySQL, Snowflake, Amazon Redshift, Amazon Athena, Excel, Power BI, Tableau, Data Mapping, ETL Validation
 
-- API & Integration
-REST APIs, JSON, XML, Postman, Swagger UI, API Validation, Request/Response Analysis
+API & Integration : 
+- REST APIs, JSON, XML, Postman, Swagger UI, API Validation, Request/Response Analysis
 
-- Testing
-UAT Planning, Test Case Writing, Defect Tracking, Regression Testing Support, Business Validation, User Acceptance Sign-off
+Testing : 
+- UAT Planning, Test Case Writing, Defect Tracking, Regression Testing Support, Business Validation, User Acceptance Sign-off
 
-- Cloud & Enterprise Platforms
-AWS S3, AWS Lambda, AWS Glue, Amazon SNS, Amazon SQS, CloudWatch
+Cloud & Enterprise Platforms : 
+- AWS S3, AWS Lambda, AWS Glue, Amazon SNS, Amazon SQS, CloudWatch
 
-- AI & Automation
-LLM Evaluation, Prompt Evaluation, AI Workflow Analysis, Joget AI, Dataset Evaluation, Response Scoring Framework, AI Quality Metrics
+AI & Automation : 
+- LLM Evaluation, Prompt Evaluation, AI Workflow Analysis, Joget AI, Dataset Evaluation, Response Scoring Framework, AI Quality Metrics
 
-- Collaboration
-Microsoft Teams, Slack, Google Workspace, SharePoint, Loom, Notion
+Collaboration : 
+- Microsoft Teams, Slack, Google Workspace, SharePoint, Loom, Notion
 
 ---
 
