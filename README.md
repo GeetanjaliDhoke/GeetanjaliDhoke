@@ -1,15 +1,21 @@
-# Hi, I'm Geetanjali Dhoke 👋
+👋 Hi, I'm Geetanjali Dhoke
 
-**Business Analyst | Agile Practitioner | AI & Data Analytics Enthusiast | Scrum master**
+🚀 Project Manager | Agile & Scrum Practitioner | IT Project Delivery | AI & Data Analytics Enthusiast
 
-I'm a Business Analyst with **5 years of experience** across IT, SaaS, AI, and data-driven projects. I specialize in translating business needs into actionable solutions by bridging the gap between stakeholders and technical teams.
+I'm an IT Project Manager with 5 years of experience managing technology-driven projects across IT, SaaS, AI, data analytics, and enterprise applications.
 
-My experience spans the complete software delivery lifecycle, including **requirements gathering, stakeholder workshops, BRD, FRD, SRS, user stories, BPMN process modeling, sprint planning, UAT, API validation, and requirement traceability**. I've collaborated with cross-functional teams and international stakeholders across the **USA, UK, and France**, delivering enterprise solutions using Agile and Scrum methodologies.
+I specialize in end-to-end project management, Agile delivery, stakeholder coordination, cross-functional team management, and project execution. I enjoy bringing structure to complex projects, aligning business objectives with technical execution, and ensuring successful delivery within defined timelines and scope.
 
-Beyond traditional business analysis, I have worked on **LLM evaluation frameworks, AI workflow analysis, SQL-based data analysis, Power BI dashboards, REST APIs, AWS services, and Snowflake**, helping organizations make informed, data-driven decisions.
-
-This repository is my contribution to the Business Analysis community, providing practical, reusable templates that can be adapted for real-world software projects.
-
+💼 What I Do:
+📌 End-to-End Project Planning & Execution
+🤝 Stakeholder & Client Relationship Management
+🔄 Agile & Scrum Project Management
+📅 Sprint Planning, Backlog & Release Management
+👥 Cross-functional Team Coordination
+⚠️ Risk, Issue & Dependency Management
+📊 Project Tracking, Reporting & Performance Monitoring
+📝 Project Documentation & Process Improvement
+🧪 UAT Coordination & Delivery Management
 
 ## 📂 Featured Repositories  
 
