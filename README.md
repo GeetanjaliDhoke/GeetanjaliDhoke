@@ -6,16 +6,16 @@ I'm an IT Project Manager with 5 years of experience managing technology-driven 
 
 I specialize in end-to-end project management, Agile delivery, stakeholder coordination, cross-functional team management, and project execution. I enjoy bringing structure to complex projects, aligning business objectives with technical execution, and ensuring successful delivery within defined timelines and scope.
 
-💼 What I Do:
-📌 End-to-End Project Planning & Execution
-🤝 Stakeholder & Client Relationship Management
-🔄 Agile & Scrum Project Management
-📅 Sprint Planning, Backlog & Release Management
-👥 Cross-functional Team Coordination
-⚠️ Risk, Issue & Dependency Management
-📊 Project Tracking, Reporting & Performance Monitoring
-📝 Project Documentation & Process Improvement
-🧪 UAT Coordination & Delivery Management
+### 💼 What I Do:
+- 📌 End-to-End Project Planning & Execution
+- 🤝 Stakeholder & Client Relationship Management
+- 🔄 Agile & Scrum Project Management
+- 📅 Sprint Planning, Backlog & Release Management
+- 👥 Cross-functional Team Coordination
+- ⚠️ Risk, Issue & Dependency Management
+- 📊 Project Tracking, Reporting & Performance Monitoring
+- 📝 Project Documentation & Process Improvement
+- 🧪 UAT Coordination & Delivery Management
 
 ## 📂 Featured Repositories  
 
